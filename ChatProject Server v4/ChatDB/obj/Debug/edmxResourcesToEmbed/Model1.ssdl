@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ChatModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="ChatModelStoreContainer">
+    <EntitySet Name="ExistingUsers" EntityType="ChatModel.Store.ExistingUsers" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="StoredMessages" EntityType="ChatModel.Store.StoredMessages" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="sysdiagrams" EntityType="ChatModel.Store.sysdiagrams" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_UserId" Association="ChatModel.Store.FK_UserId">
+      <End Role="ExistingUsers" EntitySet="ExistingUsers" />
+      <End Role="StoredMessages" EntitySet="StoredMessages" />
+    </AssociationSet>
+    <AssociationSet Name="FK_UserID_Recipient" Association="ChatModel.Store.FK_UserID_Recipient">
+      <End Role="ExistingUsers" EntitySet="ExistingUsers" />
+      <End Role="StoredMessages" EntitySet="StoredMessages" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="ExistingUsers">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" />
+    <Property Name="UserName" Type="nvarchar" MaxLength="50" />
+    <Property Name="LastConnection" Type="datetime" />
+    <Property Name="IsConnected" Type="bit" />
+  </EntityType>
+  <EntityType Name="StoredMessages">
+    <Key>
+      <PropertyRef Name="MessageId" />
+    </Key>
+    <Property Name="MessageId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="MessageText" Type="text" />
+    <Property Name="UserId" Type="int" />
+    <Property Name="SentDate" Type="datetime" />
+    <Property Name="RecipientID" Type="int" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" Nullable="false" MaxLength="128" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <Association Name="FK_UserId">
+    <End Role="ExistingUsers" Type="ChatModel.Store.ExistingUsers" Multiplicity="0..1" />
+    <End Role="StoredMessages" Type="ChatModel.Store.StoredMessages" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ExistingUsers">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="StoredMessages">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_UserID_Recipient">
+    <End Role="ExistingUsers" Type="ChatModel.Store.ExistingUsers" Multiplicity="0..1" />
+    <End Role="StoredMessages" Type="ChatModel.Store.StoredMessages" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ExistingUsers">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="StoredMessages">
+        <PropertyRef Name="RecipientID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

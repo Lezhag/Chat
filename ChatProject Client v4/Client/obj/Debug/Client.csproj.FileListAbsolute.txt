@@ -1,0 +1,167 @@
+C:\Users\Oleg\Dropbox\Programming\ChatRoom\Client\bin\Debug\Client.exe.config
+C:\Users\Oleg\Dropbox\Programming\ChatRoom\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Dropbox\Programming\ChatRoom\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Oleg\Dropbox\Programming\ChatRoom\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Oleg\Dropbox\Programming\ChatRoom\Client\bin\Debug\Client.exe
+C:\Users\Oleg\Dropbox\Programming\ChatRoom\Client\bin\Debug\Client.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatRoom\Client\bin\Debug\ChatRoom.dll
+C:\Users\Oleg\Dropbox\Programming\ChatRoom\Client\bin\Debug\ChatRoom.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatRoom\Client\obj\Debug\Client.exe
+C:\Users\Oleg\Dropbox\Programming\ChatRoom\Client\obj\Debug\Client.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatRoom\Client\obj\Debug\Client.Chat.resources
+C:\Users\Oleg\Dropbox\Programming\ChatRoom\Client\obj\Debug\Client.frmStartClient.resources
+C:\Users\jbt\Desktop\ChatRoom\Client\bin\Debug\Client.exe.config
+C:\Users\jbt\Desktop\ChatRoom\Client\obj\Debug\Client.exe
+C:\Users\jbt\Desktop\ChatRoom\Client\obj\Debug\Client.pdb
+C:\Users\jbt\Desktop\ChatRoom\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\ChatRoom\Client\obj\Debug\Client.Chat.resources
+C:\Users\jbt\Desktop\ChatRoom\Client\obj\Debug\Client.frmStartClient.resources
+C:\Users\jbt\Desktop\ChatRoom\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\jbt\Desktop\ChatRoom\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Oleg\Dropbox\Programming\ChatRoom\Client\bin\Debug\MessageLib.dll
+C:\Users\Oleg\Dropbox\Programming\ChatRoom\Client\bin\Debug\MessageLib.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatRoom v2\Client\bin\Debug\Client.exe.config
+C:\Users\Oleg\Dropbox\Programming\ChatRoom v2\Client\obj\Debug\Client.exe
+C:\Users\Oleg\Dropbox\Programming\ChatRoom v2\Client\obj\Debug\Client.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatRoom v2\Client\bin\Debug\Client.exe
+C:\Users\Oleg\Dropbox\Programming\ChatRoom v2\Client\bin\Debug\Client.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatRoom v2\Client\bin\Debug\ChatRoom.dll
+C:\Users\Oleg\Dropbox\Programming\ChatRoom v2\Client\bin\Debug\MessageLib.dll
+C:\Users\Oleg\Dropbox\Programming\ChatRoom v2\Client\bin\Debug\ChatRoom.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatRoom v2\Client\bin\Debug\MessageLib.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatRoom v2\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Dropbox\Programming\ChatRoom v2\Client\obj\Debug\Client.Chat.resources
+C:\Users\Oleg\Dropbox\Programming\ChatRoom v2\Client\obj\Debug\Client.frmStartClient.resources
+C:\Users\Oleg\Dropbox\Programming\ChatRoom v2\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Oleg\Dropbox\Programming\ChatRoom v2\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Oleg\Dropbox\Programming\ChatRoom v3\Client\bin\Debug\Client.exe.config
+C:\Users\Oleg\Dropbox\Programming\ChatRoom v3\Client\obj\Debug\Client.exe
+C:\Users\Oleg\Dropbox\Programming\ChatRoom v3\Client\obj\Debug\Client.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatRoom v3\Client\bin\Debug\Client.exe
+C:\Users\Oleg\Dropbox\Programming\ChatRoom v3\Client\bin\Debug\Client.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatRoom v3\Client\bin\Debug\ChatRoom.dll
+C:\Users\Oleg\Dropbox\Programming\ChatRoom v3\Client\bin\Debug\MessageLib.dll
+C:\Users\Oleg\Dropbox\Programming\ChatRoom v3\Client\bin\Debug\ChatRoom.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatRoom v3\Client\bin\Debug\MessageLib.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatRoom v3\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Dropbox\Programming\ChatRoom v3\Client\obj\Debug\Client.Chat.resources
+C:\Users\Oleg\Dropbox\Programming\ChatRoom v3\Client\obj\Debug\Client.frmStartClient.resources
+C:\Users\Oleg\Dropbox\Programming\ChatRoom v3\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Oleg\Dropbox\Programming\ChatRoom v3\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Oleg\Dropbox\Programming\ChatRoom v4\Client\bin\Debug\Client.exe.config
+C:\Users\Oleg\Dropbox\Programming\ChatRoom v4\Client\obj\Debug\Client.exe
+C:\Users\Oleg\Dropbox\Programming\ChatRoom v4\Client\obj\Debug\Client.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatRoom v4\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Dropbox\Programming\ChatRoom v4\Client\obj\Debug\Client.Chat.resources
+C:\Users\Oleg\Dropbox\Programming\ChatRoom v4\Client\obj\Debug\Client.frmStartClient.resources
+C:\Users\Oleg\Dropbox\Programming\ChatRoom v4\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Oleg\Dropbox\Programming\ChatRoom v4\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Oleg\Dropbox\Programming\ChatRoom v4\Client\bin\Debug\Client.exe
+C:\Users\Oleg\Dropbox\Programming\ChatRoom v4\Client\bin\Debug\Client.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatRoom v4\Client\bin\Debug\ChatRoom.dll
+C:\Users\Oleg\Dropbox\Programming\ChatRoom v4\Client\bin\Debug\MessageLib.dll
+C:\Users\Oleg\Dropbox\Programming\ChatRoom v4\Client\bin\Debug\ChatRoom.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatRoom v4\Client\bin\Debug\MessageLib.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Dropbox\Programming\ChatProject\Client\obj\Debug\Client.Chat.resources
+C:\Users\Oleg\Dropbox\Programming\ChatProject\Client\obj\Debug\Client.frmStartClient.resources
+C:\Users\Oleg\Dropbox\Programming\ChatProject\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Oleg\Dropbox\Programming\ChatProject\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Oleg\Dropbox\Programming\ChatProject\Client\obj\Debug\Client.exe
+C:\Users\Oleg\Dropbox\Programming\ChatProject\Client\obj\Debug\Client.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject\Client\bin\Debug\Client.exe.config
+C:\Users\Oleg\Dropbox\Programming\ChatProject\Client\bin\Debug\Client.exe
+C:\Users\Oleg\Dropbox\Programming\ChatProject\Client\bin\Debug\Client.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject\Client\bin\Debug\ChatProject.dll
+C:\Users\Oleg\Dropbox\Programming\ChatProject\Client\bin\Debug\PostOffice.dll
+C:\Users\Oleg\Dropbox\Programming\ChatProject\Client\bin\Debug\ChatProject.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject\Client\bin\Debug\PostOffice.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject v1\Client\bin\Debug\Client.exe.config
+C:\Users\Oleg\Dropbox\Programming\ChatProject v1\Client\obj\Debug\Client.exe
+C:\Users\Oleg\Dropbox\Programming\ChatProject v1\Client\obj\Debug\Client.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject v1\Client\bin\Debug\Client.exe
+C:\Users\Oleg\Dropbox\Programming\ChatProject v1\Client\bin\Debug\Client.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject v1\Client\bin\Debug\ChatProject.dll
+C:\Users\Oleg\Dropbox\Programming\ChatProject v1\Client\bin\Debug\PostOffice.dll
+C:\Users\Oleg\Dropbox\Programming\ChatProject v1\Client\bin\Debug\ChatProject.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject v1\Client\bin\Debug\PostOffice.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject v1\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Dropbox\Programming\ChatProject v1\Client\obj\Debug\Client.Chat.resources
+C:\Users\Oleg\Dropbox\Programming\ChatProject v1\Client\obj\Debug\Client.frmStartClient.resources
+C:\Users\Oleg\Dropbox\Programming\ChatProject v1\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Oleg\Dropbox\Programming\ChatProject v1\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client\Client\bin\Debug\Client.exe.config
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client\Client\obj\Debug\Client.exe
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client\Client\obj\Debug\Client.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client\Client\bin\Debug\Client.exe
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client\Client\bin\Debug\Client.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client\Client\bin\Debug\ChatProject.dll
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client\Client\bin\Debug\PostOffice.dll
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client\Client\bin\Debug\ChatProject.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client\Client\bin\Debug\PostOffice.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client\Client\obj\Debug\Client.Chat.resources
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client\Client\obj\Debug\Client.frmStartClient.resources
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\jbt\Desktop\ChatProject Client\Client\bin\Debug\Client.exe.config
+C:\Users\jbt\Desktop\ChatProject Client\Client\obj\Debug\Client.exe
+C:\Users\jbt\Desktop\ChatProject Client\Client\obj\Debug\Client.pdb
+C:\Users\jbt\Desktop\ChatProject Client\Client\bin\Debug\Client.exe
+C:\Users\jbt\Desktop\ChatProject Client\Client\bin\Debug\Client.pdb
+C:\Users\jbt\Desktop\ChatProject Client\Client\bin\Debug\ChatProject.dll
+C:\Users\jbt\Desktop\ChatProject Client\Client\bin\Debug\PostOffice.dll
+C:\Users\jbt\Desktop\ChatProject Client\Client\bin\Debug\ChatProject.pdb
+C:\Users\jbt\Desktop\ChatProject Client\Client\bin\Debug\PostOffice.pdb
+C:\Users\jbt\Desktop\ChatProject Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\ChatProject Client\Client\obj\Debug\Client.Chat.resources
+C:\Users\jbt\Desktop\ChatProject Client\Client\obj\Debug\Client.frmStartClient.resources
+C:\Users\jbt\Desktop\ChatProject Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\jbt\Desktop\ChatProject Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v1\Client\bin\Debug\Client.exe.config
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v1\Client\obj\Debug\Client.exe
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v1\Client\obj\Debug\Client.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v1\Client\bin\Debug\Client.exe
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v1\Client\bin\Debug\Client.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v1\Client\bin\Debug\ChatProject.dll
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v1\Client\bin\Debug\PostOffice.dll
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v1\Client\bin\Debug\ChatProject.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v1\Client\bin\Debug\PostOffice.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v1\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v1\Client\obj\Debug\Client.Chat.resources
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v1\Client\obj\Debug\Client.frmStartClient.resources
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v1\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v1\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v3\Client\bin\Debug\Client.exe.config
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v3\Client\obj\Debug\Client.exe
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v3\Client\obj\Debug\Client.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v3\Client\bin\Debug\Client.exe
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v3\Client\bin\Debug\Client.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v3\Client\bin\Debug\ChatProject.dll
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v3\Client\bin\Debug\PostOffice.dll
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v3\Client\bin\Debug\ChatProject.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v3\Client\bin\Debug\PostOffice.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v3\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v3\Client\obj\Debug\Client.AddNewUser.resources
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v3\Client\obj\Debug\Client.Chat.resources
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v3\Client\obj\Debug\Client.FrmStartClient.resources
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v3\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v3\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v4\Client\bin\Debug\Client.exe.config
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v4\Client\obj\Debug\Client.exe
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v4\Client\obj\Debug\Client.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v4\Client\bin\Debug\Client.exe
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v4\Client\bin\Debug\Client.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v4\Client\bin\Debug\ChatProject.dll
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v4\Client\bin\Debug\PostOffice.dll
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v4\Client\bin\Debug\ChatProject.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v4\Client\bin\Debug\PostOffice.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v4\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v4\Client\obj\Debug\Client.Chat.resources
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v4\Client\obj\Debug\Client.FrmStartClient.resources
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v4\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v4\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v4\Client\bin\Debug\ChatDB.dll
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v4\Client\bin\Debug\EntityFramework.dll
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v4\Client\bin\Debug\ChatDB.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v4\Client\bin\Debug\EntityFramework.xml

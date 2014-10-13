@@ -1,0 +1,47 @@
+C:\Users\Oleg\Dropbox\Programming\ChatProject\ChatProject\bin\Debug\ChatProject.dll
+C:\Users\Oleg\Dropbox\Programming\ChatProject\ChatProject\bin\Debug\ChatProject.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject\ChatProject\bin\Debug\PostOffice.dll
+C:\Users\Oleg\Dropbox\Programming\ChatProject\ChatProject\bin\Debug\PostOffice.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject\ChatProject\obj\Debug\ChatProject.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Dropbox\Programming\ChatProject\ChatProject\obj\Debug\ChatProject.dll
+C:\Users\Oleg\Dropbox\Programming\ChatProject\ChatProject\obj\Debug\ChatProject.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject v1\ChatProject\bin\Debug\ChatProject.dll
+C:\Users\Oleg\Dropbox\Programming\ChatProject v1\ChatProject\bin\Debug\ChatProject.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject v1\ChatProject\bin\Debug\PostOffice.dll
+C:\Users\Oleg\Dropbox\Programming\ChatProject v1\ChatProject\bin\Debug\PostOffice.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject v1\ChatProject\obj\Debug\ChatProject.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Dropbox\Programming\ChatProject v1\ChatProject\obj\Debug\ChatProject.dll
+C:\Users\Oleg\Dropbox\Programming\ChatProject v1\ChatProject\obj\Debug\ChatProject.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server\ChatProject\bin\Debug\ChatProject.dll
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server\ChatProject\bin\Debug\ChatProject.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server\ChatProject\bin\Debug\PostOffice.dll
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server\ChatProject\bin\Debug\PostOffice.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server\ChatProject\obj\Debug\ChatProject.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server\ChatProject\obj\Debug\ChatProject.dll
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server\ChatProject\obj\Debug\ChatProject.pdb
+C:\Users\jbt\Desktop\ChatProject Server\ChatProject\bin\Debug\ChatProject.dll
+C:\Users\jbt\Desktop\ChatProject Server\ChatProject\bin\Debug\ChatProject.pdb
+C:\Users\jbt\Desktop\ChatProject Server\ChatProject\bin\Debug\PostOffice.dll
+C:\Users\jbt\Desktop\ChatProject Server\ChatProject\bin\Debug\PostOffice.pdb
+C:\Users\jbt\Desktop\ChatProject Server\ChatProject\obj\Debug\ChatProject.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\ChatProject Server\ChatProject\obj\Debug\ChatProject.dll
+C:\Users\jbt\Desktop\ChatProject Server\ChatProject\obj\Debug\ChatProject.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server v3\ChatProject\bin\Debug\ChatProject.dll
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server v3\ChatProject\bin\Debug\ChatProject.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server v3\ChatProject\bin\Debug\PostOffice.dll
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server v3\ChatProject\bin\Debug\PostOffice.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server v3\ChatProject\obj\Debug\ChatProject.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server v3\ChatProject\obj\Debug\ChatProject.dll
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server v3\ChatProject\obj\Debug\ChatProject.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server v4\ChatProject\bin\Debug\ChatProject.dll
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server v4\ChatProject\bin\Debug\ChatProject.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server v4\ChatProject\bin\Debug\PostOffice.dll
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server v4\ChatProject\bin\Debug\PostOffice.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server v4\ChatProject\obj\Debug\ChatProject.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server v4\ChatProject\obj\Debug\ChatProject.dll
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server v4\ChatProject\obj\Debug\ChatProject.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server v4\ChatProject\bin\Debug\ChatProject.dll.config
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server v4\ChatProject\bin\Debug\ChatDB.dll
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server v4\ChatProject\bin\Debug\EntityFramework.dll
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server v4\ChatProject\bin\Debug\ChatDB.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server v4\ChatProject\bin\Debug\EntityFramework.xml

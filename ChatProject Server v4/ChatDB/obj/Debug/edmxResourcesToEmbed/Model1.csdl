@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ChatModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="ChatEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="ExistingUsers" EntityType="ChatModel.ExistingUser" />
+    <EntitySet Name="StoredMessages" EntityType="ChatModel.StoredMessage" />
+    <EntitySet Name="sysdiagrams" EntityType="ChatModel.sysdiagram" />
+    <AssociationSet Name="FK_UserId" Association="ChatModel.FK_UserId">
+      <End Role="ExistingUsers" EntitySet="ExistingUsers" />
+      <End Role="StoredMessages" EntitySet="StoredMessages" />
+    </AssociationSet>
+    <AssociationSet Name="FK_UserID_Recipient" Association="ChatModel.FK_UserID_Recipient">
+      <End Role="ExistingUsers" EntitySet="ExistingUsers" />
+      <End Role="StoredMessages" EntitySet="StoredMessages" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="ExistingUser">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="UserName" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="LastConnection" Type="DateTime" Precision="3" />
+    <Property Name="IsConnected" Type="Boolean" />
+    <NavigationProperty Name="StoredMessages" Relationship="ChatModel.FK_UserId" FromRole="ExistingUsers" ToRole="StoredMessages" />
+    <NavigationProperty Name="StoredMessages1" Relationship="ChatModel.FK_UserID_Recipient" FromRole="ExistingUsers" ToRole="StoredMessages" />
+  </EntityType>
+  <EntityType Name="StoredMessage">
+    <Key>
+      <PropertyRef Name="MessageId" />
+    </Key>
+    <Property Name="MessageId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="MessageText" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+    <Property Name="UserId" Type="Int32" />
+    <Property Name="SentDate" Type="DateTime" Precision="3" />
+    <Property Name="RecipientID" Type="Int32" />
+    <NavigationProperty Name="ExistingUser" Relationship="ChatModel.FK_UserId" FromRole="StoredMessages" ToRole="ExistingUsers" />
+    <NavigationProperty Name="ExistingUser1" Relationship="ChatModel.FK_UserID_Recipient" FromRole="StoredMessages" ToRole="ExistingUsers" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" Nullable="false" MaxLength="128" Unicode="true" FixedLength="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <Association Name="FK_UserId">
+    <End Role="ExistingUsers" Type="ChatModel.ExistingUser" Multiplicity="0..1" />
+    <End Role="StoredMessages" Type="ChatModel.StoredMessage" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ExistingUsers">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="StoredMessages">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_UserID_Recipient">
+    <End Role="ExistingUsers" Type="ChatModel.ExistingUser" Multiplicity="0..1" />
+    <End Role="StoredMessages" Type="ChatModel.StoredMessage" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ExistingUsers">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="StoredMessages">
+        <PropertyRef Name="RecipientID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

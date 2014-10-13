@@ -1,0 +1,14 @@
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v1\Client\bin\Release\Client.exe.config
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v1\Client\bin\Release\Client.exe
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v1\Client\bin\Release\Client.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v1\Client\bin\Release\ChatProject.dll
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v1\Client\bin\Release\PostOffice.dll
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v1\Client\bin\Release\ChatProject.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v1\Client\bin\Release\PostOffice.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v1\Client\obj\Release\Client.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v1\Client\obj\Release\Client.Chat.resources
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v1\Client\obj\Release\Client.frmStartClient.resources
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v1\Client\obj\Release\Client.Properties.Resources.resources
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v1\Client\obj\Release\Client.csproj.GenerateResource.Cache
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v1\Client\obj\Release\Client.exe
+C:\Users\Oleg\Dropbox\Programming\ChatProject Client v1\Client\obj\Release\Client.pdb

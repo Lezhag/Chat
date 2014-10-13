@@ -1,0 +1,10 @@
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server v4\ChatDB\obj\Debug\ChatDB.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server v4\ChatDB\bin\Debug\ChatDB.dll.config
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server v4\ChatDB\bin\Debug\ChatDB.dll
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server v4\ChatDB\bin\Debug\ChatDB.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server v4\ChatDB\bin\Debug\EntityFramework.dll
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server v4\ChatDB\bin\Debug\PostOffice.dll
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server v4\ChatDB\bin\Debug\PostOffice.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server v4\ChatDB\bin\Debug\EntityFramework.xml
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server v4\ChatDB\obj\Debug\ChatDB.dll
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server v4\ChatDB\obj\Debug\ChatDB.pdb

@@ -1,0 +1,15 @@
+C:\Users\Oleg\Dropbox\Programming\ChatProject\PostOffice\obj\Debug\PostOffice.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Dropbox\Programming\ChatProject\PostOffice\bin\Debug\PostOffice.dll
+C:\Users\Oleg\Dropbox\Programming\ChatProject\PostOffice\bin\Debug\PostOffice.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject\PostOffice\obj\Debug\PostOffice.dll
+C:\Users\Oleg\Dropbox\Programming\ChatProject\PostOffice\obj\Debug\PostOffice.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server\PostOffice\bin\Debug\PostOffice.dll
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server\PostOffice\bin\Debug\PostOffice.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server\PostOffice\obj\Debug\PostOffice.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server\PostOffice\obj\Debug\PostOffice.dll
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server\PostOffice\obj\Debug\PostOffice.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server v3\PostOffice\bin\Debug\PostOffice.dll
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server v3\PostOffice\bin\Debug\PostOffice.pdb
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server v3\PostOffice\obj\Debug\PostOffice.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server v3\PostOffice\obj\Debug\PostOffice.dll
+C:\Users\Oleg\Dropbox\Programming\ChatProject Server v3\PostOffice\obj\Debug\PostOffice.pdb
